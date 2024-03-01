@@ -1,0 +1,18 @@
+{
+  "id": "xp-tracker",
+  "title": "XP Tracker",
+  "description": "A simple module to track xp in the encounter menu",
+  "authors": [
+    {
+      "name": "Tyler"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "scripts/xpTracker.js"
+  ]
+}
